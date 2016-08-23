@@ -1,2 +1,1 @@
-# FizzBuzz-JQuery2
-Fizzbuzz Remastered
+# FizzBuzz-JQuery2 remastered!
